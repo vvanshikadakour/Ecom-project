@@ -1,0 +1,7 @@
+ 200 - ok request
+ 201- created - post 
+ 400- bad request /userss
+ 401- unauthorised 
+ 402- payment req 
+ 403 - forbidden - 
+ 404- page not found dns 
